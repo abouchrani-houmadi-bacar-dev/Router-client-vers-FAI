@@ -43,7 +43,7 @@ Deux zones reliees par le modem DSL :
 
 1. Cloner le depot ou telecharger les fichiers.
 2. Ouvrir le fichier `TP1_ISP_DSL.pkt` avec Packet Tracer.
-3. La maquette est deja configuree et fonctionnelle.
+3. La maquette est déjà configurée et fonctionnelle.
 
 ## Tests a realiser
 
@@ -80,4 +80,4 @@ Dans le pool DHCP, l'adresse exclue doit etre `20.110.24.1` (la passerelle) et n
 
 ## Auteurs
 
-Groupe 307 : Dilmahamood, Bouchrani, Houmadi Bacar
+Groupe : DILMAHAMOD Réhaan, Bouchrani Ambdouroihamane
