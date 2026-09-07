@@ -37,7 +37,7 @@ Deux zones reliees par le modem DSL :
 
 ## Prerequis
 
-- Cisco Packet Tracer (version 8.x conseillee, a adapter a la tienne)
+- Cisco Packet Tracer version 9.0.0
 
 ## Comment ouvrir le lab
 
