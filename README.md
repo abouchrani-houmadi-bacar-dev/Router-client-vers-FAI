@@ -68,10 +68,6 @@ Depuis le PC HR (onglet Desktop) :
 
 Le dernier test valide toute la chaine : routage de bout en bout, distribution DHCP, resolution DNS et reponse du service HTTP.
 
-## Point d'amelioration connu
-
-Dans le pool DHCP, l'adresse exclue doit etre `20.110.24.1` (la passerelle) et non `20.210.24.1`, qui se trouve en dehors du reseau distribue.
-
 ## Contenu du depot
 
 - `README.md` : ce fichier
